@@ -5,3 +5,4 @@ spacy
 seaborn
 textblob
 scikit-learn
+gensim
